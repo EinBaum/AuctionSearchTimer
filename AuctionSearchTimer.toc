@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Auction|cff60ff00SearchTimer|r
+## Author: EinBaum https://github.com/EinBaum
+## Version: 1.0
+## Notes: The auction house search button will show the time until the next refresh is possible.
+AuctionSearchTimer.xml
+AuctionSearchTimer.lua
