@@ -50,6 +50,10 @@ function B_AST_OnUpdate()
 		local td = t - B_AST_LastTime
 		B_AST_TimeLeft = B_AST_TimeLeft - td
 		
+		if B_AST_TimeLeft < 0 then
+			B_AST_TimeLeft = 0
+		end
+
 		local text = math.floor(B_AST_TimeLeft * 10) / 10
 		if string.len(text) == 1 then
 			text = text .. ".0"
