@@ -4,3 +4,7 @@
 
 ### Installation Notes
 - Remove "-master" from the directory name after downloading
+
+## Preview
+
+![Preview](/preview.jpg?raw=true "Preview")
