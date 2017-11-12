@@ -3,7 +3,7 @@
 - This timer will show you when the next refresh is possible
 
 ### Installation Notes
-- Remove "-master" from the directory name after downloading
+- Directory name must be "AuctionSearchTimer"
 
 ## Preview
 
